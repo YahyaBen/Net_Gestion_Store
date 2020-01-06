@@ -1,0 +1,17 @@
+C:\Users\Hyrku\source\repos\GestionStore\bin\Debug\GestionStore.exe.config
+C:\Users\Hyrku\source\repos\GestionStore\bin\Debug\GestionStore.exe
+C:\Users\Hyrku\source\repos\GestionStore\bin\Debug\GestionStore.pdb
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.csprojAssemblyReference.cache
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.Categories.resources
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.Properties.Resources.resources
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.csproj.GenerateResource.cache
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.exe
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.pdb
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.MDIstore.resources
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.Clients.resources
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.Produits.resources
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.Commandes.resources
+C:\Users\Hyrku\source\repos\GestionStore\bin\Debug\GestionStore.exe.manifest
+C:\Users\Hyrku\source\repos\GestionStore\bin\Debug\GestionStore.application
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.exe.manifest
+C:\Users\Hyrku\source\repos\GestionStore\obj\Debug\GestionStore.application
